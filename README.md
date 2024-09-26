@@ -1,6 +1,6 @@
 ### Hi there 👋  
 My name is Sarkhan Rahimli
-I'm mostly a front-end developer and also an instructor.
+I'm mostly a MERN stack developer and also an instructor.
 I trust myself
 I'm open to new offers 💪
 
