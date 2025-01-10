@@ -16,7 +16,7 @@ I'm open to new offers 💪
 <img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="26px" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" />
+<img align="left" alt="Redux" width="26px" src="[https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png](https://static-00.iconduck.com/assets.00/nestjs-icon-1024x1020-34exj0g6.png)" />
 <img align="left" alt="graphlql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
 <img align="left" alt="ReactNative" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 <img align="left" alt="Styled" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/jbhiqodxlyhaqogfuqwy/1486104606.png?w=400&h=400&fit=crop&crop=entropy&auto=compress" />
